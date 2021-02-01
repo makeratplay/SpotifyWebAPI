@@ -5,6 +5,7 @@ See it in action here: https://makeratplay.github.io/SpotifyWebAPI/
 
 And here is a video where I walk through writing this web app.
 
+[![How to Authenticate and use Spotify Web API](https://img.youtube.com/vi/1vR3m0HupGI/0.jpg)](https://youtu.be/1vR3m0HupGI "How to Authenticate and use Spotify Web API")
 
 
 I am using the Spotify API in one of my Maker At Play projects.
