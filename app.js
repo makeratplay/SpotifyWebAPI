@@ -1,7 +1,9 @@
-var redirect_uri = "http://127.0.0.1:5500/index.html" // change this your value
+var redirect_uri = "https://makeratplay.github.io/SpotifyWebAPI/"; // change this your value
+//var redirect_uri = "http://127.0.0.1:5500/index.html";
+ 
 
 var client_id = ""; 
-var client_secret = ""; 
+var client_secret = ""; // In a real app you should not expose your client_secret to the user
 
 var access_token = null;
 var refresh_token = null;
